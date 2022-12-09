@@ -45,3 +45,28 @@ Que me proporcionou trabalhar com as maiores multinacionais do mundo, Aliexpress
 Ser Full Stack me abre portas para Codar e ser um Design de pós-produção.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri350)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+
+<div>
+<div>
+<img align="right" alt="GIF" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/dev.gif?raw=true" width="350px" height="350px"/>
+</div>
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Meus interesses pessoais:
+
+<div align="justify">
+<p>
+- :mortar_board: &nbsp; Me formei no Centro Universitário Católico Salesiano Auxilium em Design de Jogos e Cinema.<br />
+- :atom: &nbsp; Comecei com C, fui para C+, C++, C# na Unity e cheguei em Java. Me formei Fullstack na Trybe em Javascript.<br />
+- :books: &nbsp; Minha lingagem de programação preferida é JavaScript com Node.js e React (hooks).<br />
+- :soccer:&nbsp; Sou muito esportivo, amo fazer musculação e atividades ao ar livre.<br />
+- :basketball: &nbsp; Meus hobbies são jogar no pc, adoro fazer pair programming e assistir series.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:yuri.350@hotmail.com" target="_blank">pessoal</a>.<br />
+- :calendar: &nbsp; Tenho sempre horários disponíveis, sou rapido no email e no whatsapp !<br />
+- :page_facing_up: &nbsp; Veja meu <a href="https://www.linkedin.com/in/yuri-villanueva-fullstack/" target="_blank">Currículo Linkdin</a> para mais informações.
+</p>
+</div>
+</div>
+
+-----
