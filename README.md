@@ -33,7 +33,7 @@
 </tr> 
 </table>
 
-<h3>Olá, bem vindo ! 👋<h3/>
+<h3>Olá, bem vindo ! 👋</h3>
 
 Me chamo Yuri e sou da grande São Paulo, meu primeiro contato com programação foi no 7º ano usando NXT Lego no Colégio Internacional Anhembi Morumbi, eu era tão fascinado que fazia tudo sozinho se meus amigos não quisessem participar, mas sempre amei fazer qualquer coisa em grupo e gosto muito de interagir.
 
