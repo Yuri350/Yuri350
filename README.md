@@ -1,7 +1,7 @@
 -----
 
-<div>
-<img align="center" alt="Header" src="https://github.com/Yuri350/Yuri-Villanueva/tree/main/img/header.png?raw=true"/>
+
+<img align="center" alt="Header" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/header.png?raw=true"/>
 </div>
 
 -----
