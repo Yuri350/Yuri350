@@ -57,11 +57,11 @@ Ser Full Stack me abre portas para Codar e ser um Design de pós-produção.
 
 <div align="justify">
 <p>
-- :mortar_board: &nbsp; Me formei no Centro Universitário Católico Salesiano Auxilium em Design de Jogos e Cinema.<br />
-- :atom: &nbsp; Comecei com C, fui para C+, C++, C# na Unity e cheguei em Java. Me formei Fullstack na Trybe em Javascript.<br />
-- :books: &nbsp; Minha lingagem de programação preferida é JavaScript com Node.js e React (hooks).<br />
+- :mortar_board: &nbsp; Me formei no Centro Universitário Católico Salesiano Auxilium em Design<br /> de Jogos e Cinema.<br />
+- :atom: &nbsp; Comecei com C, fui para C+, C++, C# na Unity e cheguei em Java.<br /> Me formei Fullstack na Trybe em Javascript.<br />
+- :books: &nbsp; Minha lingagem de programação preferida é JavaScript com Node.js<br /> e React (hooks).<br />
 - :soccer:&nbsp; Sou muito esportivo, amo fazer musculação e atividades ao ar livre.<br />
-- :basketball: &nbsp; Meus hobbies são jogar no pc, adoro fazer pair programming e assistir series.<br />
+- :basketball: &nbsp; Meus hobbies são jogar no pc, adoro fazer pair programming e<br /> assistir series.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:yuri.350@hotmail.com" target="_blank">pessoal</a>.<br />
 - :calendar: &nbsp; Tenho sempre horários disponíveis, sou rapido no email e no whatsapp !<br />
 - :page_facing_up: &nbsp; Veja meu <a href="https://www.linkedin.com/in/yuri-villanueva-fullstack/" target="_blank">Currículo Linkdin</a> para mais informações.
