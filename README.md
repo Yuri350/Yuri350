@@ -70,3 +70,46 @@ Ser Full Stack me abre portas para Codar e ser um Design de pós-produção.
 </div>
 
 -----
+
+<div>
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:
+
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/bash.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="[https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img](https://github.com/Yuri350/Yuri-Villanueva/blob/main/img)/python.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/c.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/cpp.svg"/></a></code>
+&nbsp; 
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/csharp.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/java.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/html.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/css.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/js.png"/></a></code>
+&nbsp; 
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/react.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.php.net/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/php.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/mysql.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/mongodb.png"/></a></code>
+&nbsp; 
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/nodejs.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/docker.png"/></a></code>
+&nbsp;  
+<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/heroku.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/postman.png"/></a></code>
+&nbsp; 
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
+</div>
+
+-----
