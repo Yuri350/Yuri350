@@ -57,7 +57,7 @@ Ser Full Stack me abre portas para Codar e ser um Design de pós-produção.
 
 <div align="justify">
 <p>
-- :mortar_board: &nbsp; Me formei no Centro Universitário Católico Salesiano Auxilium em Design<br /> de Jogos e Cinema.<br />
+- :mortar_board: &nbsp; Me formei no Centro Universitário Católico Salesiano Auxilium em<br /> Design de Jogos e Cinema.<br />
 - :atom: &nbsp; Comecei com C, fui para C+, C++, C# na Unity e cheguei em Java.<br /> Me formei Fullstack na Trybe em Javascript.<br />
 - :books: &nbsp; Minha lingagem de programação preferida é JavaScript com Node.js<br /> e React (hooks).<br />
 - :soccer:&nbsp; Sou muito esportivo, amo fazer musculação e atividades ao ar livre.<br />
