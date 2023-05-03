@@ -60,7 +60,8 @@ Ser Full Stack me abre portas para Codar e ser Design.
 - :atom: &nbsp; Comecei com C, fui para C+, C++, C# na Unity e cheguei em Java.<br /> Me formei Fullstack na Trybe em Javascript.<br />
 - :books: &nbsp; Minha lingagem de programação preferida é JavaScript com Node.js<br /> e React (hooks).<br />
 - :page_facing_up: &nbsp; Meu diferencial, sou Design de pós produção e tenho um conhecimento avançado em <br />
- Blender, After Effects, Photoshop, Adobe Premiere Pro e Media Encode. Usei todo esse conhecimento diariamente no Youtube e <br />
+ Blender, After Effects, Photoshop, Adobe Premiere Pro e Media Encode. <br />
+ Usei todo esse conhecimento diariamente no Youtube e <br />
  produzi comerciais para multinacionais em VFX.
 - :soccer:&nbsp; Sou muito esportivo, amo fazer musculação e atividades ao ar livre.<br />
 - :basketball: &nbsp; Meus hobbies são jogar no pc, adoro fazer pair programming e<br /> assistir series.<br />
