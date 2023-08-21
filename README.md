@@ -125,5 +125,5 @@ Ser Full Stack me abre portas para Codar e ser Design.
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuri350&theme=github_dark"/>
 </div>
 
-![Snake animation](https://github.com/Yuri350/Yuri350/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Jeffercampos/Yuri350/blob/output/github-contribution-grid-snake.svg)
 -----
