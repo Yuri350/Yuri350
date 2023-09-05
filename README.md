@@ -16,7 +16,7 @@
 </td>
 <td><a href="mailto:yuri.350@hotmail.com" target="_blank"><img src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5518996275063" target="_blank"><img src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5511919495063" target="_blank"><img src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/yuri_villanuev/" target="_blank"><img src="https://github.com/Yuri350/Yuri-Villanueva/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
