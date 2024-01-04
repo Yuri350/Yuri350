@@ -68,7 +68,7 @@ Ser Full Stack me abre portas para Codar e ser Design.
 - :basketball: &nbsp; Meus hobbies são jogar no pc, adoro fazer pair programming e<br /> assistir series.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:yuri.350@hotmail.com" target="_blank">pessoal</a>.<br />
 - :calendar: &nbsp; Tenho sempre horários disponíveis, sou rapido no email e no whatsapp !<br />
-- :page_facing_up: &nbsp; Veja meu <a href="https://www.linkedin.com/in/yuri-villanueva-fullstack/" target="_blank">Currículo Linkdin</a> para mais informações.
+- :page_facing_up: &nbsp; Veja meu <a href="https://www.linkedin.com/in/yuri-villanueva-fullstack/" target="_blank">Currículo Linkedin</a> para mais informações.
 </p>
 </div>
 </div>
