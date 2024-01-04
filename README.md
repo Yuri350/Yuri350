@@ -35,7 +35,7 @@
 
 <h3>Olá, bem vindo ! 👋</h3>
 
-Me chamo Yuri e sou da grande São Paulo, meu primeiro contato com programação foi no 7º ano usando NXT Lego no Colégio Internacional Anhembi Morumbi, eu era tão fascinado que fazia tudo sozinho se meus amigos não quisessem participar, mas sempre amei fazer qualquer coisa em grupo e gosto muito de interagir.
+Me chamo Yuri e sou da grande São Paulo e sou Engenheiro de Software fullstack e UI / UX Designer, meu primeiro contato com programação foi no 7º ano usando NXT Lego no Colégio Internacional Anhembi Morumbi, eu era tão fascinado que fazia tudo sozinho se meus amigos não quisessem participar, mas sempre amei fazer qualquer coisa em grupo e gosto muito de interagir.
 
 Me formei em Design de Jogos e Cinema, tenho uma paixão dupla por Codar e Design, 3D, Photoshop, After effects e muito CSS interativo.
 Tenho uma curiosidade muito grande em saber todos os passos, por isso fui capaz de ser frente de um canal do Youtube de 9 MILHÕES ! <br>
